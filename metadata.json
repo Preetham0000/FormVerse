@@ -1,0 +1,5 @@
+{
+  "name": "React Form Builder",
+  "description": "A dynamic form builder using React and TypeScript. Create, preview, and save custom forms with various field types, validation rules, and derived fields, all stored in your browser's local storage.",
+  "requestFramePermissions": []
+}
